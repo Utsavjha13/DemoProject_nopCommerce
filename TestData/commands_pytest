@@ -1,0 +1,9 @@
+To run a Pytest file, we can open the terminal and move from the current directory to the directory of the Pytest file that we want to execute.
+pytest -v -s [file_location with name]
+
+for specific browser
+
+pytest -v -s [file location/name] --browser [browser name]
+
+for reports
+pytest -v -s --html=[report_location] [file location]

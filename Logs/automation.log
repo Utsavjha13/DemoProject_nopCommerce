@@ -1,0 +1,90 @@
+06/19/2023 08:00:38 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/19/2023 08:00:39 PM: INFO: **************Test_001>test_login_page_title--->PASSED*********
+06/19/2023 08:00:42 PM: INFO: **************Verify Test_001>test_login_test*********
+06/19/2023 08:00:52 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
+06/20/2023 12:15:04 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/20/2023 12:15:07 PM: INFO: **************Test_001>test_login_page_title--->PASSED*********
+06/20/2023 12:15:11 PM: INFO: **************Verify Test_001>test_login_test*********
+06/20/2023 12:15:21 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
+06/20/2023 12:17:57 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/20/2023 12:18:00 PM: INFO: **************Test_001>test_login_page_title--->PASSED*********
+06/20/2023 12:18:02 PM: INFO: **************Verify Test_001>test_login_test*********
+06/20/2023 12:18:19 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
+06/20/2023 01:17:43 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/20/2023 01:17:46 PM: INFO: **************Test_001>test_login_page_title--->PASSED*********
+06/20/2023 01:17:48 PM: INFO: **************Verify Test_001>test_login_test*********
+06/20/2023 01:18:04 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
+06/20/2023 06:14:23 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 06:16:47 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 06:19:02 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 06:20:48 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:15:32 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:18:34 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:20:31 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:54:49 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:56:35 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 08:59:44 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:01:14 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:03:55 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:07:31 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:07:59 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:08:41 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:09:53 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/20/2023 09:16:29 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 12:55:48 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 12:58:05 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:00:36 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:04:14 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:04:38 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:07:37 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:13:43 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:15:37 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:18:12 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:18:58 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:29:29 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 01:33:04 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 03:33:43 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 03:34:01 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 03:36:05 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 03:37:35 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 03:40:15 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:16:34 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:19:55 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:21:34 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:23:29 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:34:50 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:35:23 PM: ERROR: ********* Add customer Test Failed ************
+06/21/2023 04:41:20 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 04:44:15 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 05:04:03 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 05:05:29 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 05:11:40 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 05:23:42 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:02:02 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:02:48 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:10:32 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:10:55 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:11:30 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/21/2023 06:11:42 PM: INFO: ********* Add customer Test Passed *********
+06/22/2023 12:00:52 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 12:01:01 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
+06/22/2023 12:10:38 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 12:10:51 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
+06/22/2023 02:33:47 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/22/2023 02:34:01 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/22/2023 02:34:03 PM: ERROR: **************Test_001>test_login_page_title--->FAILED*********
+06/22/2023 02:34:05 PM: INFO: **************Verify Test_001>test_login_test*********
+06/22/2023 02:34:19 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 05:01:30 PM: INFO: **************Verify Test_001>test_login_test*********
+06/22/2023 05:01:44 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 05:02:03 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
+06/22/2023 05:03:22 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 05:03:30 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
+06/22/2023 05:04:10 PM: INFO: **************Verify Test_001>test_Add_newUser_test*********
+06/22/2023 05:04:22 PM: INFO: ********* Add customer Test Passed *********
+06/22/2023 05:04:24 PM: INFO: **************verify Test_001>test_login_page_title*********
+06/22/2023 05:04:26 PM: INFO: **************Test_001>test_login_page_title--->PASSED*********
+06/22/2023 05:04:28 PM: INFO: **************Verify Test_001>test_login_test*********
+06/22/2023 05:04:36 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
+06/22/2023 05:04:38 PM: INFO: ************* SearchCustomerByEmail **********
+06/22/2023 05:04:44 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
