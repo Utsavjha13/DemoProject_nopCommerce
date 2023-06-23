@@ -5,14 +5,20 @@ from selenium.webdriver.common.by import By
 
 @pytest.fixture()
 def wd(browser):
+    location = "/Users/utsav.jha/PycharmProjects/nopCommerce/Download_files"
+    #   plugins.always_open_pdf_externally should true if pdf is downloading
+    preferences = {"download.default_directory": location, "plugins.always_open_pdf_externally": True}
+    ops = webdriver.ChromeOptions()
+    ops.add_experimental_option("prefs", preferences)
+
     if browser == 'chrome':
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=ops)
         print("Launching chrome browser.........")
     elif browser == 'firefox':
         driver = webdriver.Firefox()
         print("Launching firefox browser.........")
     else:
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=ops)
         print("Launching chrome browser.........")
     return driver
 

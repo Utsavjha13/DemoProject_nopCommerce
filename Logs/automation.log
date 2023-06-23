@@ -88,3 +88,27 @@
 06/22/2023 05:04:36 PM: ERROR: **************Test_001>test_login_test---->FAILED*********
 06/22/2023 05:04:38 PM: INFO: ************* SearchCustomerByEmail **********
 06/22/2023 05:04:44 PM: INFO: ************* SearchCustomerByEmail>>>>PASSED **********
+06/23/2023 03:30:03 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:33:34 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:34:20 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:35:13 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:35:22 PM: INFO: **************Login Completed*********
+06/23/2023 03:39:48 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:40:01 PM: INFO: **************Login Completed*********
+06/23/2023 03:40:59 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:41:05 PM: INFO: **************Login Completed*********
+06/23/2023 03:41:09 PM: INFO: **************File downloaded*********
+06/23/2023 03:41:09 PM: INFO: ***********Test_product_Search>>>FAILED************
+06/23/2023 03:41:45 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:41:55 PM: INFO: **************Login Completed*********
+06/23/2023 03:41:58 PM: INFO: **************File downloaded*********
+06/23/2023 03:41:58 PM: INFO: ***********Test_product_Search>>>FAILED************
+06/23/2023 03:44:45 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 03:44:54 PM: INFO: **************Login Completed*********
+06/23/2023 03:44:59 PM: INFO: **************File downloaded*********
+06/23/2023 03:45:09 PM: INFO: ***********Test_product_Search>>>FAILED************
+06/23/2023 06:10:37 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 06:10:57 PM: INFO: **************verify Test_product_Search*********
+06/23/2023 06:11:03 PM: INFO: **************Login Completed*********
+06/23/2023 06:11:06 PM: INFO: **************File downloaded*********
+06/23/2023 06:11:16 PM: INFO: ***********Test_product_Search>>>PASSED************

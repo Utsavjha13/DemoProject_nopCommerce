@@ -88,3 +88,11 @@ class ReadConfig_searchuser:
     def search():
         email = config.get('search user', 'email')
         return email
+
+
+class ReadConfig_product_cat_search:
+
+    @staticmethod
+    def catg_search():
+        catg = random.choice(range(1, 17))
+        return str(catg)
