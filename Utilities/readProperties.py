@@ -96,3 +96,4 @@ class ReadConfig_product_cat_search:
     def catg_search():
         catg = random.choice(range(1, 17))
         return str(catg)
+
